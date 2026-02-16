@@ -1,0 +1,5 @@
+python-magic source: file-without-copyright-information
+python-magic source: no-debian-changes
+python-magic source: source-contains-prebuilt-windows-binary
+python-magic source: source-is-missing
+python-magic source: source-package-encodes-python-version
